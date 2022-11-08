@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(2, 22, 22);
+}
+.clock {
+  width: 300px;
+  height: 135px;
+  background-color: rgb(36, 36, 36);
+  margin-left: 520px;
+  margin-top: 200px;
+  position: relative;
+  border-radius: 5px;
+}
+.timeArea {
+  width: 240px;
+  height: 100px;
+  background-color: black;
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 17px;
+  color: whitesmoke;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h2 {
+  color: white;
+  margin-left: 575px;
+  font-size: 28px;
+}
